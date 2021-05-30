@@ -41,7 +41,7 @@ class Resume
 	end
 
 	def limit_reach
-		self.limit > 3
+		self.limit > 2
 	end
 
 	def load_to_csv
