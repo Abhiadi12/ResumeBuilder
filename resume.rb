@@ -37,7 +37,7 @@ class Resume
 
 
 			object.load_to_csv
-			end
+		end
 	end
 
 	def limit_reach
